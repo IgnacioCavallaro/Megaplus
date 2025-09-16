@@ -1,8 +1,0 @@
-export enum AppState {
-  AGE_CHECK,
-  DNI_INPUT,
-  SCRATCH_GAME,
-  FILLING_FORM,
-  WINNER,
-  BLOCKED,
-}
